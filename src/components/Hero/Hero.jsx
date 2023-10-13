@@ -14,6 +14,7 @@ const Hero = () =>
         </p>
         
        </div>
+       
        <div className="flex flex-row justify-between items-center w-full">
         <h1 className="flex-1 font-poppins  font-semibold ss:text-[62px] text-[42px] text-white ">O método de   <br className="sm:block hidden ss:leading-[100px] leading-[72px]"/>{""}  
         pagamento da próxima
